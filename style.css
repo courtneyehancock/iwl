@@ -1,0 +1,222 @@
+/*
+  Theme Name: Inspiring Women Leaders
+  Theme URI:
+  Author: Courtney Hancock
+  Description: This template was made for the University of Florida Inspiring Women Leaders Conference by Courtney Hancock
+  Version: 1.0
+  License: Open
+  Text Domain: iwl
+
+*/
+
+/*
+Colors
+Beige: #f9e5bc
+Gold: #daa520
+Blush: #cc6666
+Maroon: #6a202b
+Soft Black: #1f2833
+
+Fonts
+font-family: 'CaviarDreams' !important;
+font-family: 'CaviarDreams_Bold' !important;
+font-family: 'CaviarDreams-BoldItalic' !important;
+font-family: 'CaviarDreams-Italic' !important;
+font-family: 'Afterglow-Regular' !important;
+*/
+
+
+/* -- Universal Styling -- */
+@font-face {
+	font-family: 'RoughBlacky';
+	src: url('fonts/RoughBlacky.otf') format('opentype');
+}
+@font-face {
+	font-family: 'Adam';
+	src: url('fonts/Adam.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'OpenSans-Regular';
+	src: url('fonts/OpenSans-Regular.ttf') format('truetype');
+}
+
+h1 {
+  font-family: 'RoughBlacky' !important;
+  letter-spacing: 1.5px;
+  color: #322015;
+}
+
+h2, h3 {
+  font-family: 'Adam' !important;
+  letter-spacing: 1.5px;
+  color: #c8a37b;
+	text-transform: uppercase;
+}
+h4, h5, h6 {
+  font-family: 'OpenSans-Regular' !important;
+	letter-spacing: 1.5px;
+  color: #322015;
+}
+p {
+  font-family: 'OpenSans-Regular', sans-serif !important;
+	color: #212121;
+}
+
+a {
+	color: #212121;
+}
+
+a:hover {
+	color: #c8a37b;
+	text-decoration: none;
+}
+.title-box {
+  width: 25px;
+  height: 50px;
+  background-color: #aadd73;
+  float:left;
+  margin-right: 20px;
+}
+.section-margins {
+  margin: 100px 0;
+}
+button {
+    border: 3px solid #60c28e;
+    font-family: 'Afterglow-Regular' !important;
+    color: #60c28e;
+    border-radius: 0;
+}
+button:hover {
+  border: 3px solid #60c28e !important;
+  background-color: #60c28e;
+  color: white;
+}
+
+
+/* -- HEADER -- */
+.container-fluid.top-menu-header.sticky-element-original.element-is-sticky {
+	-webkit-box-shadow: 0 10px 5px #888888;
+	-moz-box-shadow: 0 10px 5px #888888;
+	box-shadow: 0 1px 8px #888888;
+}
+
+.top-menu-header {
+	background-color: #fff;
+}
+
+img.daves-logo {
+	max-width: 200px;
+	margin-top: 2%;
+	margin-left: 6%;
+}
+
+/* -- HOME PAGE -- */
+.widget-small-banner img{
+	width: 100%;
+}
+
+a.homepage-offer {
+	color: #212121;
+}
+
+a.homepage-offer:hover {
+	color: #c8a37b;
+	text-decoration: none;
+}
+
+.home-icons {
+	width: 60px;
+}
+
+.home-icons:hover {
+	color: #c8a37b;
+	opacity: .7;
+	transition: .2s;
+}
+
+.home-banner-text {
+	background-color: #212121;
+	padding: 5%;
+}
+.image-ultimate-hover-1 .iheu-info,
+.image-ultimate-hover-2 .iheu-info {
+	background: #322015 !important;
+}
+/* -- PROJECTS PAGE -- */
+.crp-catalog-title{
+	font-family: 'OpenSans-Regular', sans-serif !important;
+	font-size: .8em;
+}
+
+/* -- CONTACT PAGE -- */
+label {
+	padding: 1%;
+}
+
+/* -- FOOTER -- */
+
+footer {
+	background-color: #212121;
+	padding: 3% 0 3% 0;
+}
+
+footer p {
+	color: #fff;
+}
+
+.widget-footer h3.widget-title {
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    color: #fff;
+}
+footer ul {
+    font-family: 'OpenSans-Regular' !important;
+    list-style-type: none;
+		padding-left: 0;
+}
+
+footer li a {
+  text-decoration: none;
+  color: #c8a37b;
+  transition: 0.2s;
+}
+
+footer li a:hover {
+  color: #a26f45;
+	text-decoration: none;
+}
+
+.widget-footer.widget-right a {
+  color: #fff;
+}
+.widget-footer.widget-right a:hover {
+  color: #fff;
+}
+
+footer img {
+	max-width: 300px !important;
+}
+
+/* -- MEDIA QUERIES -- */
+@media only screen and (max-width: 767px) {
+	footer {
+		text-align: center;
+	}
+
+	#site-logo {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+	.image-ultimate-row {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin-top: 5%;
+	}
+
+	.steps-text {
+		display: none;
+	}
+}
