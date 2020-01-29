@@ -3,13 +3,14 @@
 <?php get_header(); ?>
 
 <div class="main-content">
-  <div class="container">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
         <?php dynamic_sidebar('banner-home'); ?>
       </div>
     </div>
-
+  </div>
+  <div class="container">
     <div class="row">
       <div class="col-md-12">
         <?php
