@@ -122,9 +122,13 @@ a.homepage-offer:hover {
 	background-color: #212121;
 	padding: 5%;
 }
-.image-ultimate-hover-1 .iheu-info,
-.image-ultimate-hover-2 .iheu-info {
-	background: #322015 !important;
+
+.ignite {
+	font-size: 3.5em;
+	text-align: right;
+	font-weight: bolder;
+	color: #00529b;
+	opacity: .5;
 }
 /* -- PROJECTS PAGE -- */
 .crp-catalog-title{
