@@ -86,6 +86,13 @@ img.iwl-logo {
 	margin-left: 6%;
 	max-height:100px;
 }
+div#site-nav {
+	margin-top: 14px;
+}
+
+div#social-nav {
+	margin-top:25px;
+}
 
 /* -- HOME PAGE -- */
 .widget-small-banner img{
