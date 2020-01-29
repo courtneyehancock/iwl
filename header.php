@@ -33,7 +33,7 @@
       </div>
       <div class="col-md-3" id="social-nav">
           <!--Social Icons-->
-          <?php dynamic_sidebar('social-footer'); ?>
+          <?php dynamic_sidebar('social-header'); ?>
       </div>
     </div>
   </div>
