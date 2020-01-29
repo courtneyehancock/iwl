@@ -70,16 +70,7 @@ a:hover {
 	color: #c8a37b;
 	text-decoration: none;
 }
-.title-box {
-  width: 25px;
-  height: 50px;
-  background-color: #aadd73;
-  float:left;
-  margin-right: 20px;
-}
-.section-margins {
-  margin: 100px 0;
-}
+
 button {
     border: 3px solid #60c28e;
     font-family: 'Afterglow-Regular' !important;
@@ -92,18 +83,17 @@ button:hover {
   color: white;
 }
 
+body{
+  padding-bottom:200px;
+}
+
+.main-content{
+  min-height:200vh;
+  background:#fff;
+  z-index:1;
+}
 
 /* -- HEADER -- */
-.container-fluid.top-menu-header.sticky-element-original.element-is-sticky {
-	-webkit-box-shadow: 0 10px 5px #888888;
-	-moz-box-shadow: 0 10px 5px #888888;
-	box-shadow: 0 1px 8px #888888;
-}
-
-.top-menu-header {
-	background-color: #fff;
-}
-
 img.daves-logo {
 	max-width: 200px;
 	margin-top: 2%;
@@ -158,6 +148,12 @@ label {
 footer {
 	background-color: #212121;
 	padding: 3% 0 3% 0;
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+	height:200px;
+	z-index:-1;
 }
 
 footer p {
@@ -204,19 +200,6 @@ footer img {
 	}
 
 	#site-logo {
-		display: none;
-	}
-}
-
-@media only screen and (max-width: 900px) {
-	.image-ultimate-row {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		margin-top: 5%;
-	}
-
-	.steps-text {
 		display: none;
 	}
 }
