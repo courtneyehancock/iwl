@@ -25,8 +25,6 @@
       <div class="col-md-3">
         <!--Contact Widget-->
         <?php dynamic_sidebar('right-footer'); ?>
-        <!--Social Widget-->
-        <?php dynamic_sidebar('social-footer'); ?>
       </div>
     </div>
   </div>
