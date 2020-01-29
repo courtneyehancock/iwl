@@ -1,3 +1,5 @@
+<?php /*Template Name: Agenda Page Template*/ ?>
+
 <?php get_header(); ?>
 
 <div class="container">

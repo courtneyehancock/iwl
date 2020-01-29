@@ -1,3 +1,5 @@
+<?php /*Template Name: Speaker Page Template*/ ?>
+
 <?php get_header(); ?>
 
 <div class="container">
