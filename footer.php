@@ -29,13 +29,6 @@
         <?php dynamic_sidebar('social-footer'); ?>
       </div>
     </div>
-
-    <div class="row">
-      <div class="col-md-12">
-        <!--Copyright-->
-        <p class="text-center font-italic">&copy; Site created by Courtney Hancock 2019</p>
-      </div>
-    </div>
   </div>
 </footer>
 
