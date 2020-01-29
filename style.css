@@ -41,19 +41,19 @@ font-family: 'Afterglow-Regular' !important;
 }
 
 h1 {
-  font-family: 'RoughBlacky' !important;
+  font-family: 'OpenSans-Regular', sans-serif !important;
   letter-spacing: 1.5px;
   color: #322015;
 }
 
 h2, h3 {
-  font-family: 'Adam' !important;
+  font-family: 'OpenSans-Regular', sans-serif !important;
   letter-spacing: 1.5px;
   color: #c8a37b;
 	text-transform: uppercase;
 }
 h4, h5, h6 {
-  font-family: 'OpenSans-Regular' !important;
+  font-family: 'OpenSans-Regular', sans-serif !important;
 	letter-spacing: 1.5px;
   color: #322015;
 }
@@ -63,11 +63,11 @@ p {
 }
 
 a {
-	color: #212121;
+	color: #ffffff;
 }
 
 a:hover {
-	color: #c8a37b;
+	color: #f37022;
 	text-decoration: none;
 }
 
