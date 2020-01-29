@@ -9,22 +9,6 @@
 
 */
 
-/*
-Colors
-Beige: #f9e5bc
-Gold: #daa520
-Blush: #cc6666
-Maroon: #6a202b
-Soft Black: #1f2833
-
-Fonts
-font-family: 'CaviarDreams' !important;
-font-family: 'CaviarDreams_Bold' !important;
-font-family: 'CaviarDreams-BoldItalic' !important;
-font-family: 'CaviarDreams-Italic' !important;
-font-family: 'Afterglow-Regular' !important;
-*/
-
 
 /* -- Universal Styling -- */
 @font-face {
@@ -42,24 +26,26 @@ font-family: 'Afterglow-Regular' !important;
 
 h1 {
   font-family: 'OpenSans-Regular', sans-serif !important;
-  letter-spacing: 1.5px;
-  color: #322015;
+  color: #00529b;
+	font-size: 1.5em;
 }
 
 h2, h3 {
   font-family: 'OpenSans-Regular', sans-serif !important;
-  letter-spacing: 1.5px;
-  color: #c8a37b;
+  color: #00529b;
 	text-transform: uppercase;
+	font-size: 1.2em;
 }
+
 h4, h5, h6 {
   font-family: 'OpenSans-Regular', sans-serif !important;
-	letter-spacing: 1.5px;
   color: #322015;
+	font-size: 15px;
 }
 p {
   font-family: 'OpenSans-Regular', sans-serif !important;
 	color: #212121;
+	font-size: 15px;
 }
 
 a {
@@ -94,11 +80,11 @@ body{
 }
 
 /* -- HEADER -- */
-img.daves-logo {
-	max-width: 200px;
+img.iwl-logo {
+	max-width: 100px;
 	margin-top: 2%;
 	margin-left: 6%;
-	max-height:200px;
+	max-height:100px;
 }
 
 /* -- HOME PAGE -- */
