@@ -5,6 +5,12 @@
 <div class="main-content">
   <div class="container">
     <div class="row">
+      <div class="col-md-12">
+        <?php dynamic_sidebar('banner-home'); ?>
+      </div>
+    </div>
+    
+    <div class="row">
       <div class="col-md-9">
         <?php
           if(have_posts()){
