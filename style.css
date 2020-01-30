@@ -159,6 +159,14 @@ a.homepage-offer:hover {
 	line-height: .8;
 }
 
+.top-icons {
+	margin-left: 10%;
+}
+
+.bottom-icons {
+	margin-left: 15%;
+}
+
 /* -- FOOTER -- */
 
 footer {
