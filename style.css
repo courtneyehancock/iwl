@@ -210,6 +210,12 @@ footer img {
 }
 
 /* -- MEDIA QUERIES -- */
+@media (min-width: 1001px) {
+	.ignite {
+		font-size: 4em;
+	}
+}
+
 @media only screen and (max-width: 767px) {
 	footer {
 		text-align: center;
