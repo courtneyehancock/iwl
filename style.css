@@ -207,7 +207,7 @@ footer img {
 	}
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 999px) {
 	footer {
 		text-align: center;
 	}
