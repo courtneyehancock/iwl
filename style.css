@@ -152,11 +152,11 @@ a.homepage-offer:hover {
 }
 
 .ignite {
-	font-size: 4em;
+	font-size: 6em;
 	text-align: right;
-	font-weight: bolder;
 	color: #00529b;
 	opacity: .5;
+	line-height: .8;
 }
 
 /* -- FOOTER -- */
