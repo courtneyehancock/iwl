@@ -27,16 +27,6 @@
 
   //Widget Areas
   function blank_widgets_init() {
-    //Header: Social Widget
-    register_sidebar(array(
-      'name'          => ('Social Header'),
-      'id'            => 'social-header',
-      'description'   => 'Social widget area in the header',
-      'before_widget' => '<div class="widget-header widget-social">',
-      'after_widget'  => '</div>',
-      'before_title'  => '<h3 class="widget-title">',
-      'after_title'   => '</h3>'
-    ));
 
     //Home: Banner Widget
     register_sidebar(array(
