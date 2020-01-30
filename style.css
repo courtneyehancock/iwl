@@ -87,7 +87,7 @@ a:hover {
 
 button {
     border: 3px solid #60c28e;
-    font-family: 'Afterglow-Regular' !important;
+    font-family: 'GentonaBook' !important;
     color: #60c28e;
     border-radius: 0;
 }
@@ -158,16 +158,6 @@ a.homepage-offer:hover {
 	color: #00529b;
 	opacity: .5;
 }
-/* -- PROJECTS PAGE -- */
-.crp-catalog-title{
-	font-family: 'OpenSans-Regular', sans-serif !important;
-	font-size: .8em;
-}
-
-/* -- CONTACT PAGE -- */
-label {
-	padding: 1%;
-}
 
 /* -- FOOTER -- */
 
@@ -192,7 +182,7 @@ footer p {
     color: #fff;
 }
 footer ul {
-    font-family: 'OpenSans-Regular' !important;
+    font-family: 'GentonaBook' !important;
     list-style-type: none;
 		padding-left: 0;
 }
