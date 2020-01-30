@@ -12,16 +12,44 @@
 
 /* -- Universal Styling -- */
 @font-face {
-	font-family: 'RoughBlacky';
-	src: url('fonts/RoughBlacky.otf') format('opentype');
+	font-family: 'GentonaBold';
+	src: url('fonts/GentonaBold.ttf') format('truetype');
 }
 @font-face {
-	font-family: 'Adam';
-	src: url('fonts/Adam.ttf') format('truetype');
+	font-family: 'GentonaBook_Italic';
+	src: url('fonts/GentonaBook_Italic.ttf') format('truetype');
 }
 @font-face {
-	font-family: 'OpenSans-Regular';
-	src: url('fonts/OpenSans-Regular.ttf') format('truetype');
+	font-family: 'GentonaBook';
+	src: url('fonts/GentonaBook.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'GentonaHeavy_Italic';
+	src: url('fonts/GentonaHeavy_Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'GentonaHeavy';
+	src: url('fonts/GentonaHeavy.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'GentonaLight_Italic';
+	src: url('fonts/GentonaLight_Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'GentonaLight';
+	src: url('fonts/GentonaLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'QuadonHeavy';
+	src: url('fonts/QuadonHeavy.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'QuadonMedium';
+	src: url('fonts/QuadonMedium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'QuadonThin';
+	src: url('fonts/QuadonThin.ttf') format('truetype');
 }
 
 h1 {
