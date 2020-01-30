@@ -169,9 +169,8 @@ footer p {
 }
 
 .widget-footer h3.widget-title {
-    font-size: 1.5rem;
-    letter-spacing: 1px;
-    color: #fff;
+    font-size: 1.2rem;
+    color: #f37022;
 }
 footer ul {
     font-family: 'GentonaBook' !important;
@@ -181,20 +180,20 @@ footer ul {
 
 footer li a {
   text-decoration: none;
-  color: #c8a37b;
+  color: #f37022;
   transition: 0.2s;
 }
 
 footer li a:hover {
-  color: #a26f45;
+  color: #bc581a;
 	text-decoration: none;
 }
 
 .widget-footer.widget-right a {
-  color: #fff;
+  color: #f37022;
 }
 .widget-footer.widget-right a:hover {
-  color: #fff;
+  color: #bc581a;
 }
 
 footer img {
