@@ -144,7 +144,7 @@ ul.slick-dots {
 }
 
 button.slick-next.slick-arrow,
-button.slick-next.slick-arrow {
+button.slick-prev.slick-arrow {
     display: none !important;
 } 
 /* -- FOOTER -- */
