@@ -227,8 +227,7 @@ footer img {
 		align-items: center;
 	}
 	.ignite {
-		text-align:center;
-		font-size: 5em;
+		display: none;
 	}
 }
 
