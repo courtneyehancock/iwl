@@ -53,25 +53,25 @@
 }
 
 h1 {
-  font-family: 'OpenSans-Regular', sans-serif !important;
+  font-family: 'GentonaHeavy', sans-serif !important;
   color: #00529b;
 	font-size: 1.5em;
 }
 
 h2, h3 {
-  font-family: 'OpenSans-Regular', sans-serif !important;
+  font-family: 'GentonaBold', sans-serif !important;
   color: #00529b;
 	text-transform: uppercase;
 	font-size: 1.2em;
 }
 
 h4, h5, h6 {
-  font-family: 'OpenSans-Regular', sans-serif !important;
+  font-family: 'GentonaBook_Italic', sans-serif !important;
   color: #322015;
 	font-size: 15px;
 }
 p {
-  font-family: 'OpenSans-Regular', sans-serif !important;
+  font-family: 'GentonaBook', sans-serif !important;
 	color: #212121;
 	font-size: 15px;
 }
