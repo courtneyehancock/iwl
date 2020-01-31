@@ -110,10 +110,10 @@ body{
 
 /* -- HEADER -- */
 img.iwl-logo {
-	max-width: 150px;
+	max-width: 25%;
 	margin-top: 2%;
-/*	margin-left: 40%;*/
-	max-height:150px;
+	margin-left: 20%;
+	max-height:100px;
 }
 div#site-nav {
 	margin-top: 14px;
