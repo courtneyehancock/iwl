@@ -102,7 +102,7 @@ body{
 }
 
 .main-content{
-  min-height:190vh;
+/*  min-height:190vh;*/
   background:#fff;
   z-index:1;
 	position:relative;
