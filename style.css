@@ -207,6 +207,13 @@ footer img {
 	}
 }
 
+@media (max-width: 630px) {
+	.d-flex.top-icons,
+	.d-flex.bottom-icons {
+	    flex-direction: column;
+	    text-align: center;
+	}
+
 @media only screen and (max-width: 999px) {
 	footer {
 		text-align: center;
