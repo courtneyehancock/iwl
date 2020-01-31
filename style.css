@@ -122,6 +122,11 @@ div#social-nav {
 	margin-top:25px;
 }
 
+.main-nav {
+	position: fixed;
+	z-index: 1;
+}
+
 /* -- HOME PAGE -- */
 .ignite {
 	font-size: 6em;
@@ -228,7 +233,7 @@ footer img {
 	body {
 		padding-bottom: 700px;
 	}
-	
+
 	#site-logo {
 		display: none;
 	}
