@@ -223,8 +223,12 @@ footer img {
 @media only screen and (max-width: 999px) {
 	footer {
 		text-align: center;
+		height: 700px;
 	}
-
+	body {
+		padding-bottom: 700px;
+	}
+	
 	#site-logo {
 		display: none;
 	}
