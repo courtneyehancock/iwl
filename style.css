@@ -213,6 +213,11 @@ footer img {
 	    flex-direction: column;
 	    text-align: center;
 	}
+	h1.m-5.why-attend-text {
+    letter-spacing: 2px !important;
+    text-align: center;
+	}
+}
 
 @media only screen and (max-width: 999px) {
 	footer {
