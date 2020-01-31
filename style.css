@@ -234,6 +234,9 @@ footer img {
 	body {
 		padding-bottom: 700px;
 	}
+	.main-nav {
+		position: relative;
+	}
 
 	#site-logo {
 		display: none;
