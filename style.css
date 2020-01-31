@@ -209,7 +209,7 @@ footer img {
 /* -- MEDIA QUERIES -- */
 @media (min-width: 1001px) {
 	.ignite {
-		font-size: 4em;
+		font-size: 5em;
 	}
 }
 
@@ -254,14 +254,9 @@ footer img {
 	}
 }
 
-@media (min-width: 1179px) {
-	.ignite {
-		font-size: 4em;
-	}
-}
 
 @media (min-width: 1368px) {
 	.ignite {
-		font-size: 5em;
+		font-size: 6em;
 	}
 }
