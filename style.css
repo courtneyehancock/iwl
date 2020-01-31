@@ -125,6 +125,7 @@ div#social-nav {
 .main-nav {
 	position: fixed;
 	z-index: 1;
+	width: 100%;
 }
 
 /* -- HOME PAGE -- */
