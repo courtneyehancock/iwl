@@ -212,6 +212,7 @@ footer img {
 	.d-flex.bottom-icons {
 	    flex-direction: column;
 	    text-align: center;
+			margin: 0;
 	}
 	h1.m-5.why-attend-text {
     letter-spacing: 2px !important;
