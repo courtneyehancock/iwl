@@ -110,7 +110,7 @@ body{
 
 /* -- HEADER -- */
 img.iwl-logo {
-	max-width: 25%;
+	max-width: 100px;
 	margin-top: 2%;
 	margin-left: 20%;
 	max-height:100px;
