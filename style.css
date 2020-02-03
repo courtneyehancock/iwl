@@ -70,6 +70,7 @@ h4, h5, h6 {
   color: #322015;
 	font-size: 15px;
 }
+
 p {
   font-family: 'GentonaBook', sans-serif !important;
 	color: #212121;
@@ -106,6 +107,12 @@ body{
   background:#fff;
   z-index:1;
 	position:relative;
+}
+
+.page-title {
+	padding: 25% 0 0 10%;
+	margin-top: -30px;
+	line-height: .8em;
 }
 
 /* -- HEADER -- */
@@ -227,6 +234,12 @@ footer img {
 	}
 }
 
+@media (max-width: 767px) {
+	.page-title {
+		font-size: 2em;
+	}
+}
+
 @media only screen and (max-width: 999px) {
 	footer {
 		text-align: center;
@@ -241,6 +254,10 @@ footer img {
 
 	#site-logo {
 		display: none;
+	}
+
+	.page-title {
+		font-size: 4em;
 	}
 }
 
