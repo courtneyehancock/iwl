@@ -236,7 +236,7 @@ footer img {
 
 @media (max-width: 767px) {
 	.page-title {
-		font-size: 2em;
+		font-size: 2em !important;
 	}
 }
 
@@ -257,7 +257,7 @@ footer img {
 	}
 
 	.page-title {
-		font-size: 4em;
+		font-size: 4em !important;
 	}
 }
 
