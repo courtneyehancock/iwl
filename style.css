@@ -89,13 +89,13 @@ a:hover {
 .btn {
     border: 3px solid #f37022;
     font-family: 'GentonaBook' !important;
-    color: #f37022;
+    color: #ffffff;
     border-radius: 0;
 }
 .btn:hover {
   border: 3px solid #f37022 !important;
-  background-color: #f37022;
-  color: #fff;
+  background-color: transparent;
+  color: #f37022;
 }
 
 body{
