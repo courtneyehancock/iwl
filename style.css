@@ -91,6 +91,7 @@ a:hover {
     font-family: 'GentonaBook' !important;
     color: #ffffff;
     border-radius: 0;
+		background-color: #f37022;
 }
 .btn:hover {
   border: 3px solid #f37022 !important;
