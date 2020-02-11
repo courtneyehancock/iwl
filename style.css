@@ -303,10 +303,10 @@ footer img {
 @media only screen and (max-width: 999px) {
 	footer {
 		text-align: center;
-		height: 600px;
+		height: 700px;
 	}
 	body {
-		padding-bottom: 600px;
+		padding-bottom: 700px;
 	}
 	.main-nav {
 		position: relative;
