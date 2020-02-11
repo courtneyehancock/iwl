@@ -256,10 +256,11 @@ footer img {
 
 @media (min-width:999px){
   img.uf-logo {
-  	max-width: 90px;
+  	max-width: 75px;
   /*	margin-top: 2%;*/
     /*margin-left: -25%;*/
   	max-height:75px;
+		padding:8%;
   }
 }
 
