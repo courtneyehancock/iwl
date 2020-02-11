@@ -218,7 +218,9 @@ footer img {
 	.page-title {
 		font-size: 4em;
 	}
+}
 
+@media (min-width:900px) {
 	.home-icons {
 		display:flex;
 	}
