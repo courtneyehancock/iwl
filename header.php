@@ -27,7 +27,7 @@
         <!--Navigation-->
         <div class="header-text">
           <p class="head-text">University of Florida</p>
-          <p class="thick-head-text">Career & Workforce Dual Enrollment</p>
+          <p class="thick-head-text">Inspiring Women Leaders Conference</p>
         </div>
       </div>
       <div class="col-md-7" id="site-nav">
