@@ -60,18 +60,18 @@
     ));
     //Footer: Middle Left Space Widget
     register_sidebar(array(
-      'name'          => ('Middle Left Footer'),
-      'id'            => 'middle-left-footer',
+      'name'          => ('Middle Footer'),
+      'id'            => 'middle-footer',
       'description'   => 'Middle Left Space widget area in the footer',
       'before_widget' => '<div class="widget-footer widget-middle-left">',
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
     ));
-    //Footer: Menu Title Widget
+    //Footer: Middle Right Widget
     register_sidebar(array(
-      'name'          => ('Menu Title Footer'),
-      'id'            => 'menu-title-footer',
+      'name'          => ('Middle Right Footer'),
+      'id'            => 'middle-right-footer',
       'description'   => 'Menu Title widget area in the footer',
       'before_widget' => '<div class="widget-footer widget-menu-title">',
       'after_widget'  => '</div>',
