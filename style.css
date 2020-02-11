@@ -148,12 +148,8 @@ div#social-nav {
 	line-height: .8;
 }
 
-.top-icons {
-	margin-left: 10%;
-}
-
-.bottom-icons {
-	margin-left: 15%;
+.home-icons {
+	align-items:center;
 }
 
 ul.slick-dots {
@@ -218,18 +214,26 @@ footer img {
 }
 
 /* -- MEDIA QUERIES -- */
+@media (min-width: 767px) {
+	.page-title {
+		font-size: 4em;
+	}
+
+	.home-icons {
+		display:flex;
+	}
+	.icon-border {
+		width:20%;
+		border-left:1px solid #f37022;
+	}
+}
+
 @media (min-width: 1001px) {
 	.ignite {
 		font-size: 5em;
 	}
 	.page-title {
 		font-size: 6em;
-	}
-}
-
-@media (min-width: 767px) {
-	.page-title {
-		font-size: 4em;
 	}
 }
 
