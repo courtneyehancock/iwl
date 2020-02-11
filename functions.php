@@ -27,7 +27,16 @@
 
   //Widget Areas
   function blank_widgets_init() {
-
+    //Universal Sidebar
+    register_sidebar(array(
+      'name'          => ('universal-sidebar'),
+      'id'            => 'universal-sidebar',
+      'description'   => 'Universal sidebar widget area',
+      'before_widget' => '<div class="sidebar-widget">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   => '</h3>'
+    ));
     //Home: Banner Widget
     register_sidebar(array(
       'name'          => ('Banner Home'),
