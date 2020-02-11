@@ -225,6 +225,7 @@ footer img {
 	.icon-border {
 		width:20%;
 		border-left:1px solid #f37022;
+		padding:0 2%;
 	}
 }
 
@@ -238,12 +239,6 @@ footer img {
 }
 
 @media (max-width: 630px) {
-	.d-flex.top-icons,
-	.d-flex.bottom-icons {
-	    flex-direction: column;
-	    text-align: center;
-			margin: 0;
-	}
 	h1.m-5.why-attend-text {
     letter-spacing: 2px !important;
     text-align: center;
