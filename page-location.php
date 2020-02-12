@@ -5,7 +5,7 @@
 <div class="main-content">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-9">
+      <div class="col-md-12">
         <?php
           if(have_posts()){
             while(have_posts()){
@@ -14,10 +14,6 @@
             }
           }
         ?>
-      </div>
-      <div class="col-md-3">
-        <?php get_sidebar('right-sidebar'); ?>
-
       </div>
     </div>
   </div>
