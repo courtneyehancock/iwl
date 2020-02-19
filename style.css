@@ -184,7 +184,10 @@ button.slick-prev.slick-arrow {
 #wpls-logo-showcase-slider-1 .wp-post-image, #wpls-logo-showcase-slider-1 .wp-post-image img.wp-post-image {
 	max-width: 220px;
 }
-
+/* -- ABOUT --*/
+.oxi-image-hover-wrapper-1 .oxi-image-caption-hover {
+    background-color: rgba(0, 81, 156, 0.55) !important;
+}
 /* -- HISTORY -- */
 /* envira gallery */
 .nk-awb-wrap.nk-awb-rendered {
