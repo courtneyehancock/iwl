@@ -185,17 +185,20 @@ button.slick-prev.slick-arrow {
 	max-width: 220px;
 }
 /* -- AGENDA --*/
-.track-1,
-.track-2,
-.track-3,
-.track-4,
-.track-5,
-.track-6,
-.track-7,
-.track-8,
-.track-9,
-.panel-track:hover {
-	color:#f37022;
+
+.col-md-4.track-1.pum-trigger:hover,
+.col-md-4.track-2.pum-trigger:hover,
+.col-md-4.track-3.pum-trigger:hover,
+.col-md-4.track-4.pum-trigger:hover,
+.col-md-4.track-5.pum-trigger:hover,
+.col-md-4.track-6.pum-trigger:hover,
+.col-md-4.track-7.pum-trigger:hover,
+.col-md-4.track-8.pum-trigger:hover,
+.col-md-4.track-9.pum-trigger:hover,
+.panel-track.pum-trigger:hover {
+    color: #f37022;
+} {
+    color: #f37022;
 }
 
 button.pum-close.popmake-close {
