@@ -197,6 +197,10 @@ button.slick-prev.slick-arrow {
 .panel-track:hover {
 	color:#f37022;
 }
+
+button.pum-close.popmake-close {
+    background-color: #f37022 !important;
+}
 /* -- HISTORY -- */
 /* envira gallery */
 .nk-awb-wrap.nk-awb-rendered {
