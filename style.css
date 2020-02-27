@@ -186,15 +186,15 @@ button.slick-prev.slick-arrow {
 }
 /* -- AGENDA --*/
 
-.col-md-4.track-1.pum-trigger:hover,
-.col-md-4.track-2.pum-trigger:hover,
-.col-md-4.track-3.pum-trigger:hover,
-.col-md-4.track-4.pum-trigger:hover,
-.col-md-4.track-5.pum-trigger:hover,
-.col-md-4.track-6.pum-trigger:hover,
-.col-md-4.track-7.pum-trigger:hover,
-.col-md-4.track-8.pum-trigger:hover,
-.col-md-4.track-9.pum-trigger:hover,
+.col-md-4.track-1.pum-trigger p:hover,
+.col-md-4.track-2.pum-trigger p:hover,
+.col-md-4.track-3.pum-trigger p:hover,
+.col-md-4.track-4.pum-trigger p:hover,
+.col-md-4.track-5.pum-trigger p:hover,
+.col-md-4.track-6.pum-trigger p:hover,
+.col-md-4.track-7.pum-trigger p:hover,
+.col-md-4.track-8.pum-trigger p:hover,
+.col-md-4.track-9.pum-trigger p:hover,
 .panel-track.pum-trigger:hover {
     color: #f37022;
 } {
