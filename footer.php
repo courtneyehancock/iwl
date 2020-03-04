@@ -19,6 +19,8 @@
       </div>
     </div>
 
+    <hr />
+    <p class="text-center font-italic">© 2020 Inspiring Women Leaders</p>
   </div>
 </footer>
 
