@@ -345,7 +345,7 @@ footer img {
 		padding-bottom: 1000px;
 	}
 	.main-nav {
-		position: relative;
+		position: absolute;
 	}
 
 	.header-text {
