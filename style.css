@@ -196,7 +196,7 @@ img.uf-logo {
 h1.home-head{
 	color:#fff;
 	padding: 1% 5%;
-	text-shadow: 3px 4px 0px #bc581a;
+	/*text-shadow: 3px 4px 0px #bc581a;*/
 	border: 2px solid #fff;
 	position: absolute;
 	bottom: 138px;
