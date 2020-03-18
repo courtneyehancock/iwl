@@ -53,21 +53,44 @@
 }
 
 h1 {
-  font-family: 'GentonaHeavy', sans-serif !important;
+  font-family: 'GentonaBold', sans-serif !important;
   color: #00529b;
 	font-size: 2.5em;
+	font-weight:bold;
 }
 
-h2, h3 {
-  font-family: 'GentonaBold', sans-serif !important;
+h2 {
+  font-family: 'QuadonMedium', serif !important;
   color: #00529b;
 	text-transform: uppercase;
 	font-size: 1.2em;
 }
 
-h4, h5, h6 {
-  font-family: 'GentonaBook_Italic', sans-serif !important;
-  color: #322015;
+h3 {
+  font-family: 'QuadonThin', serif !important;
+  color: #00529b;
+	text-transform: uppercase;
+	font-size: .8em;
+	font-weight:bold;
+}
+
+h4 {
+  font-family: 'GentonaLight', sans-serif !important;
+  color: #00529b;
+	font-size: 18px;
+}
+
+h5 {
+  font-family: 'GentonaLight_Italic', sans-serif !important;
+  color: #00529b;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+h6 {
+  font-family: 'GentonaLight', sans-serif !important;
+  color: #00529b;
+	text-transform: uppercase;
 	font-size: 18px;
 }
 
@@ -95,7 +118,7 @@ a.aa:hover {
 
 .btn {
     border: 3px solid #bc581a;
-    font-family: 'GentonaBook' !important;
+    font-family: 'GentonaLight' !important;
     color: #ffffff;
     border-radius: 0;
 		background-color: #bc581a;
@@ -144,9 +167,10 @@ header {
 
 .thick-head-text {
   color:#00529b;
-  font-family: 'GentonaHeavy', sans-serif !important;
+  font-family: 'GentonaBold', sans-serif !important;
   font-size: 13px;
   letter-spacing: .5px;
+	font-weight:bold;
 }
 
 img.uf-logo {
@@ -177,6 +201,7 @@ img.uf-logo {
 	color: #00529b;
 	opacity: .5;
 	line-height: .8;
+	font-family:'GentonaHeavy' sans-serif !important;
 }
 
 .home-icons {
