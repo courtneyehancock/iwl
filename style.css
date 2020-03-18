@@ -62,14 +62,12 @@ h1 {
 h2 {
   font-family: 'QuadonMedium', serif !important;
   color: #00529b;
-	text-transform: uppercase;
 	font-size: 1.2em;
 }
 
 h3 {
   font-family: 'QuadonThin', serif !important;
   color: #00529b;
-	text-transform: uppercase;
 	font-size: .8em;
 	font-weight:bold;
 }
@@ -83,14 +81,12 @@ h4 {
 h5 {
   font-family: 'GentonaLight_Italic', sans-serif !important;
   color: #00529b;
-	text-transform: uppercase;
 	font-size: 18px;
 }
 
 h6 {
   font-family: 'GentonaLight', sans-serif !important;
   color: #00529b;
-	text-transform: uppercase;
 	font-size: 18px;
 }
 
