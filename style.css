@@ -213,7 +213,7 @@ h2.home-subhead {
 .ignite {
 	font-size: 6em;
 	text-align: right;
-	color: rgb(168,220,217, 0.2)
+	color: rgb(168,220,217, 0.2);
 	line-height: .8;
 	font-family:'GentonaHeavy', sans-serif !important;
 }
