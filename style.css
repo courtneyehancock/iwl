@@ -192,6 +192,24 @@ img.uf-logo {
 }
 
 /* -- HOME PAGE -- */
+h1.home-head{
+	color:#fff;
+	padding: 1% 5%;
+	text-shadow: 3px 4px 0px #bc581a;
+	border: 2px solid #fff;
+	position: absolute;
+	bottom: 138px;
+	right: 66px;
+	text-align:center;
+}
+
+h2.home-subhead {
+	color:#fff;
+	font-size: 1em;
+	position:absolute;
+	bottom: 97px;
+	right: 60px;
+}
 .ignite {
 	font-size: 6em;
 	text-align: right;
@@ -292,6 +310,16 @@ footer img {
 }
 
 /* -- MEDIA QUERIES -- */
+@media min-width: 600px) {
+	h1.home-head {
+		font-size: 4.5em;
+	}
+	h2.home-subhead {
+		font-size: 2em;
+		bottom:90px;
+		right:149px;
+	}
+}
 @media (min-width: 767px) {
 	.page-title {
 		font-size: 4em;
