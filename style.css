@@ -213,8 +213,7 @@ h2.home-subhead {
 .ignite {
 	font-size: 6em;
 	text-align: right;
-	color: #00529b;
-	opacity: .5;
+	color: rgb(168,220,217, 0.2)
 	line-height: .8;
 	font-family:'GentonaHeavy', sans-serif !important;
 }
@@ -277,10 +276,6 @@ footer p {
 	color: #fff;
 }
 
-.widget-footer h3.widget-title {
-    font-size: 1.2rem;
-    color: #f37022;
-}
 footer ul {
     font-family: 'GentonaBook' !important;
     list-style-type: none;
@@ -294,7 +289,7 @@ footer li a {
 }
 
 footer li a:hover {
-  color: #f37022;
+  color: #a8dcd9;
 	text-decoration: none;
 }
 
@@ -302,7 +297,7 @@ footer li a:hover {
   color: #fff;
 }
 .widget-footer.widget-right a:hover {
-  color: #f37022;
+  color: #a8dcd9;
 }
 
 footer img {
