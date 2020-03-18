@@ -219,7 +219,7 @@ h2.home-subhead {
 }
 
 .home-icons {
-	align-items:center;
+	width:100%;
 }
 
 ul.slick-dots {
@@ -344,6 +344,10 @@ footer img {
   	max-height:75px;
 		padding:8%;
   }
+	.home-icons {
+		width:70%;
+		margin-left:5%;
+	}
 }
 
 @media (min-width: 1001px) {
