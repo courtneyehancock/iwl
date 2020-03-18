@@ -199,7 +199,6 @@ h1.home-head{
 	border: 2px solid #fff;
 	position: absolute;
 	bottom: 138px;
-	right: 66px;
 	text-align:center;
 }
 
@@ -313,6 +312,7 @@ footer img {
 @media min-width: 600px) {
 	h1.home-head {
 		font-size: 4.5em;
+		right: 66px;
 	}
 	h2.home-subhead {
 		font-size: 2em;
