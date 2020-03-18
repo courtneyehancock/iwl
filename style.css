@@ -379,6 +379,18 @@ footer img {
   }
 }
 
+@media (min-width: 1500px) {
+	.home-icons {
+		width:60%;
+	}
+}
+
+@media (min-width: 1750px) {
+	.home-icons {
+		width:50%;
+	}
+}
+
 @media (max-width: 630px) {
 	h1.m-5.why-attend-text {
     letter-spacing: 2px !important;
