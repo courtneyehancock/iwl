@@ -310,7 +310,7 @@ footer img {
 }
 
 /* -- MEDIA QUERIES -- */
-@media min-width: 600px) {
+@media (min-width: 600px) {
 	h1.home-head {
 		font-size: 4.5em;
 		right: 66px;
