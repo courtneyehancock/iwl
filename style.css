@@ -78,6 +78,8 @@ h4 {
   font-family: 'GentonaLight', sans-serif !important;
   color: #00529b;
 	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
 }
 
 h5 {
