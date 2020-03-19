@@ -127,9 +127,9 @@ a.aa:hover {
   color: #bc581a;
 }
 
-body{
+/*body{
   padding-bottom:500px;
-}
+}*/
 
 .main-content{
 /*  min-height:190vh;*/
@@ -264,12 +264,12 @@ button.pum-close.popmake-close {
 footer {
 	background-image: url(http://ufiwl.com/wp-content/uploads/2020/03/prism.png);
 	padding: 3% 0 3% 0;
-	position:fixed;
+	/*position:fixed;
 	bottom:0;
 	left:0;
 	width:100%;
 	height:500px;
-	z-index:0;
+	z-index:0;*/
 }
 
 footer p {
@@ -348,6 +348,17 @@ footer img {
 		width:70%;
 		margin-left:5%;
 	}
+	footer {
+		position:fixed;
+		bottom:0;
+		left:0;
+		width:100%;
+		height:500px;
+		z-index:0;
+	}
+	body{
+	  padding-bottom:500px;
+	}
 }
 
 @media (min-width: 1001px) {
@@ -401,11 +412,11 @@ footer img {
 @media only screen and (max-width: 999px) {
 	footer {
 		text-align: center;
-		height: 1000px;
+		/*height: 1000px;
 	}
 	body {
 		padding-bottom: 1000px;
-	}
+	}*/
 	.main-nav {
 		position: absolute;
 	}
