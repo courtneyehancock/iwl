@@ -396,7 +396,7 @@ footer img {
     /*margin-left: -4.5%;*/
   	max-height:85px;
     padding:6px;
-    top:0;
+    top:-4px;
     margin-left:0;
   }
 	img.header-text {
