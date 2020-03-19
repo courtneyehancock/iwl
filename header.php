@@ -23,7 +23,7 @@
         }
         ?>
 
-        <img src="http://ufiwl.com/wp-content/uploads/2020/03/lettersTM.png" class="header-text" style="max-width: 175px;position: absolute;left: 39px;top: 24px;">
+        <img src="http://ufiwl.com/wp-content/uploads/2020/03/lettersTM.png" class="header-text">
       </div>
       <div class="col-md-1">
         <!--Navigation-->
