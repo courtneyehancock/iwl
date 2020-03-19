@@ -365,7 +365,7 @@ footer img {
   }
 	img.header-text {
 		left: 55px;
-		top: 6px;
+		top: 28px;
 	}
 	.home-icons {
 		width:70%;
@@ -396,7 +396,7 @@ footer img {
   /*	margin-top: 2%;*/
     /*margin-left: -4.5%;*/
   	max-height:85px;
-    padding:6px;
+    padding:8px;
     top:-4px;
     margin-left:0;
   }
