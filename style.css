@@ -321,6 +321,9 @@ footer img {
 		bottom:90px;
 		right:149px;
 	}
+	.home-icons {
+		padding: 3rem;
+	}
 }
 @media (min-width: 767px) {
 	.page-title {
@@ -329,9 +332,6 @@ footer img {
 }
 
 @media (min-width:900px) {
-	.home-icons {
-		display:flex;
-	}
 	.icon-border {
 		width:20%;
 		/*border-left:1px solid #f37022;*/
