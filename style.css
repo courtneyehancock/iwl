@@ -415,9 +415,9 @@ footer img {
 @media only screen and (max-width: 999px) {
 	footer {
 		text-align: center;
-		/*height: 1000px;
+		/*height: 1000px;*/
 	}
-	body {
+	/*body {
 		padding-bottom: 1000px;
 	}*/
 	.main-nav {
