@@ -192,6 +192,10 @@ img.uf-logo {
 
 }
 
+#mega-menu-wrap-header-menu #mega-menu-header-menu > li.mega-menu-item > a.mega-menu-link {
+  letter-spacing: 2px;
+}
+
 /* -- HOME PAGE -- */
 h1.home-head{
 	color:#fff;
