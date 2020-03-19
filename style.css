@@ -309,6 +309,9 @@ footer li a:hover {
 .widget-footer.widget-right a:hover {
   color: #a8dcd9;
 }
+img.footer-logo {
+	width:150px;
+}
 
 footer img {
 	max-width: 300px !important;
