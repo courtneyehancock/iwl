@@ -402,14 +402,14 @@ footer img {
 	img.header-text {
 		left: 70px;
 	}
-  .thick-head-text {
+  /*.thick-head-text {
     font-size: 16px;
     letter-spacing: .8px;
   }
   .header-text {
     padding-top: 1.5em;
     padding-left: 4em;
-  }
+  }*/
 }
 
 @media (min-width: 1500px) {
@@ -441,10 +441,6 @@ footer img {
 	}*/
 	.main-nav {
 		position: absolute;
-	}
-
-	.header-text {
-		display: none;
 	}
 }
 
