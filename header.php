@@ -12,7 +12,7 @@
 <header>
   <div class="container-fluid align-content-center">
     <div class="row main-nav">
-      <div class="col-md-1" id="site-logo">
+      <div class="col-md-3" id="site-logo">
         <!--If/else for Logo and Site Title-->
         <?php if(get_header_image() == '') { ?>
           <h1><a href="<?php echo home_url('/'); ?>"><?php bloginfo('name'); ?></a></h1>
@@ -22,15 +22,17 @@
           <?php
         }
         ?>
+
+        <img src="http://ufiwl.com/wp-content/uploads/2020/03/lettersTM.png" class="header-text" style="max-width: 175px;position: absolute;left: 39px;top: 24px;">
       </div>
-      <div class="col-md-4">
+      <div class="col-md-1">
         <!--Navigation-->
-        <div class="header-text">
+      <!--  <div class="header-text">
           <p class="head-text">University of Florida</p>
           <p class="thick-head-text">Inspiring Women Leaders</p>
-        </div>
+        </div>-->
       </div>
-      <div class="col-md-7" id="site-nav">
+      <div class="col-md-8" id="site-nav">
         <!--Navigation-->
         <?php wp_nav_menu(array(
           'theme_location' => 'header-menu',
