@@ -237,9 +237,6 @@ h4.m-5.why-attend-text {
 	text-align: center;
 }
 
-letter-spacing: 2px !important;
-text-align: center;
-
 ul.slick-dots {
     display: none !important;
 }
@@ -360,6 +357,7 @@ footer img {
 		font-size: 30px;
 		letter-spacing: 50px;
 		text-transform: uppercase;
+		text-align: left;
 	}
 }
 
