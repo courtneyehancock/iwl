@@ -277,6 +277,15 @@ button.pum-close.popmake-close {
     z-index: -1;
 }
 /* -- FOOTER -- */
+/* Constant Contact Form */
+form#ctct-form-2629719409 {
+    background-color: transparent !important;
+}
+
+.ctct-disclosure {
+    display: none;
+}
+/* End Constant Contact Form */
 
 footer {
 	background-image: url(http://ufiwl.com/wp-content/uploads/2020/03/prism.png);
