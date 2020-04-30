@@ -105,12 +105,12 @@ a {
 }
 
 a:hover {
-	color: #bc581a;
+	color: #ff590e;
 	text-decoration: none;
 }
 
 a.aa {
-	color:#bc581a;
+	color:#ff590e;
 }
 a.aa:hover {
 	color:#00529b;
