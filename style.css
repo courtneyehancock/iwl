@@ -420,6 +420,9 @@ footer img {
 		height:500px;
 		z-index:0;
 	}
+	.final-footer {
+		bottom:0;
+	}
 	body{
 	  padding-bottom:500px;
 	}
