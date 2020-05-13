@@ -23,7 +23,7 @@
         }
         ?>
 
-        <a href="<?php echo home_url('/'); ?>"><img src="https://pwd.aa.ufl.edu/iwl/wp-content/uploads/sites/4/2020/05/lettersTM.png" class="header-text"></a>
+        <a href="<?php echo home_url('/'); ?>"><img src="https://iwl.aa.ufl.edu/wp-content/uploads/sites/4/2020/05/lettersTM.png" class="header-text"></a>
       </div>
       <div class="col-md-1">
         <!--Navigation-->
