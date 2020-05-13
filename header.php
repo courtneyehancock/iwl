@@ -23,7 +23,7 @@
         }
         ?>
 
-        <img src="http://ufiwl.com/wp-content/uploads/2020/03/lettersTM.png" class="header-text">
+        <img src="https://pwd.aa.ufl.edu/iwl/wp-content/uploads/sites/4/2020/05/lettersTM.png" class="header-text">
       </div>
       <div class="col-md-1">
         <!--Navigation-->
