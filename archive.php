@@ -3,7 +3,7 @@ get_header();
 ?>
 <div class="container">
   <div class="row">
-    <div class="twelve columns">
+    <div class="col-lg-12">
       <h2><?php
         if(is_category()){
           single_cat_title();
