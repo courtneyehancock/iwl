@@ -119,11 +119,9 @@ a.aa:hover {
     border-radius: 0;
 		background-color: #ff590e;
 }
-/*.btn:hover {
-  border: 3px solid #ffffff !important;
-  background-color: #ffffff;
-  color: #ff590e;
-}*/
+.btn:hover {
+  color: #ffffff;
+}
 
 /*body{
   padding-bottom:500px;
