@@ -201,8 +201,6 @@ img.uf-logo {
 /* -- HOME PAGE -- */
 h1.home-head{
 	color:#fff;
-	padding: 1% 5%;
-	text-align:center;
 	text-transform: uppercase;
   letter-spacing: 1px;
   z-index: 1;
@@ -212,7 +210,6 @@ h1.home-head{
 h2.home-subhead {
 	color:#fff;
 	font-size: 1em;
-
 }
 
 .ignite {
