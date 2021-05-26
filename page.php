@@ -1,8 +1,7 @@
 <?php get_header(); ?>
 
-<div class="container-fluid">
-    <div class="row">
-      <div class="col-md-12">
+<div class="main-content">
+
         <?php
           if(have_posts()){
             while(have_posts()){
@@ -11,8 +10,7 @@
             }
           }
         ?>
-      </div>
-    </div>
+
 </div>
 
 <?php get_footer(); ?>
