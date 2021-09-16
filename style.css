@@ -113,7 +113,7 @@ a.aa:hover {
 }
 
 .btn {
-    border: 3px solid #ff590e;
+    border: none !important;
     font-family: 'GentonaLight' !important;
     color: #ffffff;
 		background-color: #ff590e;
@@ -121,7 +121,8 @@ a.aa:hover {
     text-shadow: 1px 1px 0px RGBA(0,0,0,0.17);
 }
 .btn:hover {
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #ff590e;
 }
 
 /*body{
